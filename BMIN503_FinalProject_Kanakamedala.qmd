@@ -3,14 +3,6 @@ title: "BMIN503_FinalProject_Kanakamedala"
 format: html
 editor: visual
 ---
-# Load required libraries
-library(tidyverse)  
-library(readr)     
-library(lubridate)  
-library(janitor)   
-library(scales)     
-library(broom)       
----
 
 ## Abstract
 
